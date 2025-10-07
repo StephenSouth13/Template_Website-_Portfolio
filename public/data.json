@@ -1,0 +1,97 @@
+{
+  "language": "vi",
+  "theme": "dark",
+  "themeSettings": {
+    "headerStyle": "sticky",
+    "sections": {
+      "hero": { "bgColor": "#0a0e27", "textColor": "#ffffff" },
+      "about": { "bgColor": "#0f1629", "textColor": "#e2e8f0" },
+      "education": { "bgColor": "#0a0e27", "textColor": "#e2e8f0" },
+      "achievements": { "bgColor": "#0f1629", "textColor": "#e2e8f0" },
+      "skills": { "bgColor": "#0a0e27", "textColor": "#e2e8f0" },
+      "projects": { "bgColor": "#0f1629", "textColor": "#e2e8f0" },
+      "contact": { "bgColor": "#0a0e27", "textColor": "#e2e8f0" },
+      "footer": { "bgColor": "#050811", "textColor": "#94a3b8" }
+    }
+  },
+  "profile": {
+    "name": {
+      "en": "Senior Nguyen",
+      "vi": "Nguyễn Văn Senior"
+    },
+    "title": {
+      "en": "Fullstack Developer",
+      "vi": "Lập trình viên Fullstack"
+    },
+    "bio": {
+      "en": "Passionate about modern web development, AI integration, and creating beautiful user experiences with motion design.",
+      "vi": "Đam mê phát triển web hiện đại, tích hợp AI và tạo trải nghiệm người dùng đẹp mắt với thiết kế chuyển động."
+    },
+    "avatar": "/placeholder.svg?height=200&width=200"
+  },
+  "social": {
+    "email": "senior.dev@example.com",
+    "github": "https://github.com/seniordev",
+    "linkedin": "https://linkedin.com/in/seniordev",
+    "twitter": "https://twitter.com/seniordev",
+    "facebook": "https://facebook.com/seniordev",
+    "phone": "+84 123 456 789",
+    "telegram": "https://t.me/seniordev",
+    "website": "https://seniordev.com"
+  },
+  "education": [
+    {
+      "school": {
+        "en": "UEH University",
+        "vi": "Đại học Kinh tế TP.HCM"
+      },
+      "degree": {
+        "en": "Bachelor of Business Administration",
+        "vi": "Cử nhân Quản trị Kinh doanh"
+      },
+      "year": "2020–2024"
+    }
+  ],
+  "achievements": [
+    {
+      "title": {
+        "en": "Top 5 V-Unique Project Award 2025",
+        "vi": "Top 5 Giải thưởng Dự án V-Unique 2025"
+      },
+      "desc": {
+        "en": "Recognized for outstanding creative innovation and project excellence",
+        "vi": "Vinh danh ý tưởng sáng tạo nổi bật và xuất sắc trong dự án"
+      }
+    }
+  ],
+  "skills": ["React", "Next.js", "TypeScript", "TailwindCSS", "UI/UX", "Node.js", "PostgreSQL", "Framer Motion"],
+  "projects": [
+    {
+      "name": {
+        "en": "VSM Marathon",
+        "vi": "VSM Marathon"
+      },
+      "desc": {
+        "en": "Student marathon event management platform with real-time tracking and registration",
+        "vi": "Nền tảng quản lý sự kiện chạy bộ sinh viên với theo dõi và đăng ký thời gian thực"
+      },
+      "link": "https://vsm.vercel.app",
+      "image": "/placeholder.svg?height=400&width=600"
+    }
+  ],
+  "contact": {
+    "email": "senior.dev@example.com",
+    "linkedin": "https://linkedin.com/in/seniordev",
+    "github": "https://github.com/seniordev",
+    "phone": "+84 123 456 789",
+    "telegram": "https://t.me/seniordev",
+    "website": "https://seniordev.com"
+  },
+  "footer": {
+    "text": {
+      "en": "Built with passion using Next.js & TailwindCSS",
+      "vi": "Được xây dựng với đam mê bằng Next.js & TailwindCSS"
+    },
+    "showSocial": true
+  }
+}
